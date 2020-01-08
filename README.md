@@ -1,6 +1,6 @@
 # flutter_gmail_redesign
 
-A gmail redesign concept
+A Mail App UI
 
 ## Getting Started
 
